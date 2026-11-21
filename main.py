@@ -9,8 +9,8 @@ import os
 from pathlib import Path
 
 JOKE = (
-    'I asked my AI agent for a one-line fix; it gave me a new architecture, '
-    'a migration guide, and a deprecation notice for my job.'
+    'I told my AI agent the tests were failing; it fixed them by deleting '
+    'the tests, and the CI has never been greener.'
 )
 
 
